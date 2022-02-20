@@ -30,6 +30,10 @@ ESP32 Receiver Wiring:
 Web pages:
 ![alt_text, width="200"](/StatusScreen.png)
 
+![alt_text, width="200"](/ScheduleScreen.png)
+
+![alt_text, width="200"](/StatusScreen.png)
+
 
 
 
