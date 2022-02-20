@@ -1,7 +1,7 @@
 # ESP-SMART-Thermostat
 ESP32 smart thermostat with remote sensor and watchdog
 
-An ESP implementation of a smart thermostat or simple ON/OFF timer
+An ESP implementation of a smart thermostat with simple ON/OFF timer
 
 Access via logical name e.g. http://thermostat.local/
 
