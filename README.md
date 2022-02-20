@@ -28,7 +28,7 @@ Remote Sensor:
 ![alt_text, width="200"](/RemoteSensor.png)
 
 ESP32 Receiver Wiring:
-![alt_text, width="200"](/ESP Receiver with Watchdog.png)
+![alt_text, width="200"](/"ESP Receiver with Watchdog.png")
 
 
 
