@@ -18,7 +18,7 @@ Comprehensive features:
 7. All HTML is fully validated by W3C
 8. Watchdog using Arduino or similar to shut off an additional relay should the main ESP32 hang
 9. Remote Sensor with OLED display and boost button, using local Access Point (not reliant on a router)
-10. Local sensor to the Receiver as a fallback
+10. Local temperature sensor on the Receiver as a fallback incase the remote sensor fails
 
 Remote Sensor:
 
