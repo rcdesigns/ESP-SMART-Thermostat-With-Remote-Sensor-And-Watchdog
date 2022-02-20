@@ -1,5 +1,5 @@
 # ESP-SMART-Thermostat
-How to use an ESP32 or ESP8266 to create a smart thermostat
+ESP32 smart thermostat with remote sensor and watchdog
 
 An ESP implementation of a smart thermostat or simple ON/OFF timer
 
