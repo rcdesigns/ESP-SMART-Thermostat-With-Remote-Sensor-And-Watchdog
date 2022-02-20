@@ -32,7 +32,7 @@ Web pages:
 
 ![alt_text, width="200"](/ScheduleScreen.png)
 
-![alt_text, width="200"](/StatusScreen.png)
+![alt_text, width="200"](/GraphScreen.png)
 
 
 
