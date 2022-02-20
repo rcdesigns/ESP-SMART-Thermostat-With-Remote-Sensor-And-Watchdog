@@ -25,7 +25,7 @@ Comprehensive features:
 
 Example webpages:
 
-![alt_text, width="200"](/Slide1.JPG)
+![alt_text, width="200"](/RemoteSensor.png)
 
 ESP32 Wiring:
 https://github.com/rcdesigns/ESP-SMART-Thermostat-With-Remote-Sensor_And_Watchdog/blob/main/ESP%20Receiver%20with%20Watchdog.png
