@@ -23,12 +23,12 @@ Comprehensive features:
 
 9. All HTML is fully validated by W3C
 
-Example webpages:
+Remote Sensor:
 
 ![alt_text, width="200"](/RemoteSensor.png)
 
-ESP32 Wiring:
-https://github.com/rcdesigns/ESP-SMART-Thermostat-With-Remote-Sensor_And_Watchdog/blob/main/ESP%20Receiver%20with%20Watchdog.png
+ESP32 Receiver Wiring:
+![alt_text, width="200"](/ESP Receiver with Watchdog.png)
 
 
 
