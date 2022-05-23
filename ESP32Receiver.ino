@@ -27,6 +27,7 @@
 
 Adafruit_BMP280 sensor;                // I2C mode
 
+// NOTE to me :-)   Current board (the newer one - different to remote sensor and sniffer dev board) is "DOIT ESP32 DEVKIT V1"
 
 const char *soft_ap_ssid = "MyESP32AP";
 const char *soft_ap_password = "testpassword";
