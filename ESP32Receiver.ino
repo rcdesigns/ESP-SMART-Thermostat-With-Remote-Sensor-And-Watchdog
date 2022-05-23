@@ -284,7 +284,11 @@ void loop() {
     LastPollSensorCheck = millis();                      // Reset time
     ReadSensor();                                         // Get sensor readings, or get simulated values if 'simulated' is ON
     UpdateLocalTime();                                    // Updates Time UnixTime to 'now'
-
+    
+    // Check WiFi connection status
+    if(WiFi.status() != WL_CONNECTED ){ 
+       WiFi.reconnect();
+    }
   }
   if ((millis() - LastTimerSwitchCheck) > TimerCheckDuration) {
       LastTimerSwitchCheck = millis();                      // Reset time
